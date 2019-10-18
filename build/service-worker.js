@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-uikit-multiselect-demo/precache-manifest.9160feb7193a78651e0077a228007f0e.js"
+  "/react-uikit-multiselect-demo/precache-manifest.c036e627fabdea5a5750ac161e1466fd.js"
 );
 
 self.addEventListener('message', (event) => {
