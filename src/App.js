@@ -26,7 +26,7 @@ class App extends Component {
             JSON.stringify(this.state.selectedItems)
           }
         </header>
-        <div>
+        <div className="uk-margin-medium-top">
           <MultiSelect OptionsList={['Cat', 'Dog', 'Mouse', 'Horse', 'Lizard', 'Dragon']} onOptionChecked={this.handleOptionChecked} />
         </div>
       </div>
