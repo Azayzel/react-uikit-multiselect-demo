@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-uikit-multiselect-demo/static/css/main.2b7114ac.chunk.css",
+    "main.js": "/react-uikit-multiselect-demo/static/js/main.4313f1ea.chunk.js",
+    "main.js.map": "/react-uikit-multiselect-demo/static/js/main.4313f1ea.chunk.js.map",
+    "runtime-main.js": "/react-uikit-multiselect-demo/static/js/runtime-main.d221d7d9.js",
+    "runtime-main.js.map": "/react-uikit-multiselect-demo/static/js/runtime-main.d221d7d9.js.map",
+    "static/css/2.efcee1a0.chunk.css": "/react-uikit-multiselect-demo/static/css/2.efcee1a0.chunk.css",
+    "static/js/2.19f36308.chunk.js": "/react-uikit-multiselect-demo/static/js/2.19f36308.chunk.js",
+    "static/js/2.19f36308.chunk.js.map": "/react-uikit-multiselect-demo/static/js/2.19f36308.chunk.js.map",
+    "index.html": "/react-uikit-multiselect-demo/index.html",
+    "precache-manifest.9160feb7193a78651e0077a228007f0e.js": "/react-uikit-multiselect-demo/precache-manifest.9160feb7193a78651e0077a228007f0e.js",
+    "service-worker.js": "/react-uikit-multiselect-demo/service-worker.js",
+    "static/css/2.efcee1a0.chunk.css.map": "/react-uikit-multiselect-demo/static/css/2.efcee1a0.chunk.css.map",
+    "static/css/main.2b7114ac.chunk.css.map": "/react-uikit-multiselect-demo/static/css/main.2b7114ac.chunk.css.map",
+    "static/media/logo.svg": "/react-uikit-multiselect-demo/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d221d7d9.js",
+    "static/css/2.efcee1a0.chunk.css",
+    "static/js/2.19f36308.chunk.js",
+    "static/css/main.2b7114ac.chunk.css",
+    "static/js/main.4313f1ea.chunk.js"
+  ]
+}
