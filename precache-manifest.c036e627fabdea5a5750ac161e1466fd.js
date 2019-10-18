@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8706c856ed03901954bf7f38991c5fba",
+    "revision": "f78079e293804f3c002f2bd539c45479",
     "url": "/react-uikit-multiselect-demo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-uikit-multiselect-demo/static/css/2.efcee1a0.chunk.css"
   },
   {
-    "revision": "2a653cb55ca3037a7c4e",
+    "revision": "688974e55adf264aa59b",
     "url": "/react-uikit-multiselect-demo/static/css/main.2b7114ac.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-uikit-multiselect-demo/static/js/2.19f36308.chunk.js"
   },
   {
-    "revision": "2a653cb55ca3037a7c4e",
-    "url": "/react-uikit-multiselect-demo/static/js/main.4313f1ea.chunk.js"
+    "revision": "688974e55adf264aa59b",
+    "url": "/react-uikit-multiselect-demo/static/js/main.5d3015be.chunk.js"
   },
   {
     "revision": "31c3ede72f2dd77d2fd8",
